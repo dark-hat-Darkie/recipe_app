@@ -1,0 +1,10 @@
+MySQL Database Configuration:
+-----------------------------------------
+	DB Name: recipe.sql
+
+	1. Import Database to phpMySQL
+	2. Create an user and give permission to the imorted database (including all tables)
+	3. Go to "pdo.php" file,,,,,, Replace database name, user, password and port according to your dev environment.
+	4. All done, the web app should be running!
+
+For more info, please look at "pdo.php" file (Database config file)
